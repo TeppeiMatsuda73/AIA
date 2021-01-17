@@ -108,4 +108,3 @@ def multi_hikisu(a, b=5):
 multi_hikisu(3,10)  #3と10が出力
 multi_hikisu(3)  #3と5が出力
 
-
